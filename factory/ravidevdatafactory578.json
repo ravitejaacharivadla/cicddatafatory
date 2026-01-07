@@ -1,0 +1,9 @@
+{
+	"name": "ravidevdatafactory578",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9c306d4a-ded2-4061-ba60-f72c45fb4d8f",
+		"tenantId": "7c9da399-90b5-402b-ad00-0f2790cd2fd0"
+	}
+}
